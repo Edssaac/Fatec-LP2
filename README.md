@@ -17,3 +17,8 @@ Professora: Denilce de Almeida Oliveira Veloso. </br>
 
 - [Triângulando](https://github.com/Edssaac/LP2/blob/main/Atividade%203/Tri%C3%A2ngulos.zip) </br></br>
 ![triangulos](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%203/triangulos.png)
+
+</br>
+
+- [Faixa de Desconto](https://github.com/Edssaac/LP2/blob/main/Atividade%203/Tri%C3%A2ngulos.zip) </br></br>
+![faixadesconto](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%204/FaixaDesconto.gif)
