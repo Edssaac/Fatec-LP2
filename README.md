@@ -20,5 +20,5 @@ Professora: Denilce de Almeida Oliveira Veloso. </br>
 
 </br>
 
-- [Faixa de Desconto](https://github.com/Edssaac/LP2/blob/main/Atividade%203/Tri%C3%A2ngulos.zip) </br></br>
+- [Faixa de Desconto](https://github.com/Edssaac/LP2/blob/main/Atividade%204/FaixaDesconto.zip) </br></br>
 ![faixadesconto](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%204/FaixaDesconto.gif)
