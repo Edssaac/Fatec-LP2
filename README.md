@@ -22,3 +22,8 @@ Professora: Denilce de Almeida Oliveira Veloso. </br>
 
 - [Faixa de Desconto](https://github.com/Edssaac/LP2/blob/main/Atividade%204/FaixaDesconto.zip) </br></br>
 ![faixadesconto](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%204/FaixaDesconto.gif)
+
+</br>
+
+- [Salários](https://github.com/Edssaac/LP2/blob/main/Atividade%205/PClasses.zip) </br></br>
+![salarios](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%205/salarios.png)
