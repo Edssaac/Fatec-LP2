@@ -27,3 +27,8 @@ Professora: Denilce de Almeida Oliveira Veloso. </br>
 
 - [Salários](https://github.com/Edssaac/LP2/blob/main/Atividade%205/PClasses.zip) </br></br>
 ![salarios](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%205/salarios.png)
+
+</br>
+
+- [Métodos](https://github.com/Edssaac/LP2/blob/main/Atividade%206/PMetodos.zip) </br></br>
+![pmetodos](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%206/PMetodos.gif)
