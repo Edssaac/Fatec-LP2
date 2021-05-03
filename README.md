@@ -35,5 +35,5 @@ Professora: Denilce de Almeida Oliveira Veloso. </br>
 
 </br>
 
-- [Métodos](https://github.com/Edssaac/LP2/blob/main/Atividade%207/PMetodos2.rar) </br></br>
-![pmetodos](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%207/PMetodos2.gif)
+- [Métodos 2](https://github.com/Edssaac/LP2/blob/main/Atividade%207/PMetodos2.rar) </br></br>
+![pmetodos2](https://raw.githubusercontent.com/Edssaac/LP2/main/Atividade%207/PMetodos2.gif)
