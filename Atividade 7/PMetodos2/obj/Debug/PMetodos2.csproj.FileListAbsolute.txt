@@ -1,0 +1,14 @@
+C:\Users\edssa\source\repos\LP2\PMetodos2\bin\Debug\PMetodos2.exe.config
+C:\Users\edssa\source\repos\LP2\PMetodos2\bin\Debug\PMetodos2.exe
+C:\Users\edssa\source\repos\LP2\PMetodos2\bin\Debug\PMetodos2.pdb
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.frmPai.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.Properties.Resources.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.csproj.GenerateResource.cache
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.csproj.CoreCompileInputs.cache
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.exe
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.pdb
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.frmExercicio1.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.frmExercicio2.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.frmExercicio3.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.frmExercicio4.resources
+C:\Users\edssa\source\repos\LP2\PMetodos2\obj\Debug\PMetodos2.csprojAssemblyReference.cache

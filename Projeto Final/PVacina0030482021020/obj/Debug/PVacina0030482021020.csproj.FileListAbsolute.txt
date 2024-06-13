@@ -1,0 +1,12 @@
+C:\Users\Edssaac\source\repos\PVacina0030482021020\bin\Debug\PVacina0030482021020.exe.config
+C:\Users\Edssaac\source\repos\PVacina0030482021020\bin\Debug\PVacina0030482021020.exe
+C:\Users\Edssaac\source\repos\PVacina0030482021020\bin\Debug\PVacina0030482021020.pdb
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.csprojAssemblyReference.cache
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.Properties.Resources.resources
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.csproj.GenerateResource.cache
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.csproj.CoreCompileInputs.cache
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.exe
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.pdb
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.frmPrincipal.resources
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.frmVacina.resources
+C:\Users\Edssaac\source\repos\PVacina0030482021020\obj\Debug\PVacina0030482021020.frmSobre.resources

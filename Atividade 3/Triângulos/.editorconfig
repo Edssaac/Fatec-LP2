@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE1006: Estilos de Nomenclatura
+dotnet_diagnostic.IDE1006.severity = none
+
+# CS0168: A variável foi declarada, mas nunca foi usada
+dotnet_diagnostic.CS0168.severity = none
+
+# IDE0018: Declaração de variável embutida
+dotnet_diagnostic.IDE0018.severity = none

@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\bin\Debug\FaixaDesconto.exe.config
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\bin\Debug\FaixaDesconto.exe
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\bin\Debug\FaixaDesconto.pdb
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.Form1.resources
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.exe
+C:\Users\Pathrok\source\repos\LP2\FaixaDesconto\obj\Debug\FaixaDesconto.pdb

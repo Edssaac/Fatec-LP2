@@ -1,0 +1,12 @@
+C:\Users\Pathrok\source\repos\LP2\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Pathrok\source\repos\LP2\PClasses\bin\Debug\PClasses.exe
+C:\Users\Pathrok\source\repos\LP2\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.frmInicio.resources
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.exe
+C:\Users\Pathrok\source\repos\LP2\PClasses\obj\Debug\PClasses.pdb

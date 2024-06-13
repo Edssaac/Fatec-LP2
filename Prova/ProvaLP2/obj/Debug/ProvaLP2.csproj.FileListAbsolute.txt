@@ -1,0 +1,10 @@
+C:\Users\Edssaac\source\repos\ProvaLP2\bin\Debug\ProvaLP2.exe.config
+C:\Users\Edssaac\source\repos\ProvaLP2\bin\Debug\ProvaLP2.exe
+C:\Users\Edssaac\source\repos\ProvaLP2\bin\Debug\ProvaLP2.pdb
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.csprojAssemblyReference.cache
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.Properties.Resources.resources
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.csproj.GenerateResource.cache
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.csproj.CoreCompileInputs.cache
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.exe
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.pdb
+C:\Users\Edssaac\source\repos\ProvaLP2\obj\Debug\ProvaLP2.fmrPlanilha.resources

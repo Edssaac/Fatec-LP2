@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\Pathrok\source\repos\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\Pathrok\source\repos\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\Pathrok\source\repos\PCalculadora\obj\Debug\PCalculadora.pdb
